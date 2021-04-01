@@ -1,5 +1,5 @@
-alert('Hello, Maxim');
-console.log('hello, Виталий Моренко');
+console.log('Hello, Maxim');
+alert('hello, Виталий Моренко');
 
 let money,
     income,
