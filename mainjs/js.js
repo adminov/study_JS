@@ -4,4 +4,7 @@ alert('hello, gloAcademy');
 
 let money,
     income,
-    addExpenses;
+    addExpenses,
+    deposit,
+    mission,
+    period;
